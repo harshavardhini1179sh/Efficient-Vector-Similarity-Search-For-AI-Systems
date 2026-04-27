@@ -18,9 +18,9 @@ pip install -r requirements.txt
   - `<NAME>_TRAIN.txt`
   - `<NAME>_TEST.txt`
 
-As the dataset size is huge, it is uploaded in google drive and link is provided below:
+Due to GitHub file-size limits, the full dataset is hosted on Google Drive:
 
-https://drive.google.com/drive/folders/1aWqKCUFeBkqJWp14cUCAz5EPjhCkourn?usp=drive_link
+Download link: https://drive.google.com/drive/folders/1aWqKCUFeBkqJWp14cUCAz5EPjhCkourn?usp=drive_link
 
 ## Run
 
