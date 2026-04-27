@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 As the dataset size is huge, it is uploaded in google drive and link is provided below:
 
-https://drive.google.com/drive/folders/17Eemqsi60X2BTGEjMF-aBc1kbBnV9dcj?usp=drive_link
+https://drive.google.com/drive/folders/1aWqKCUFeBkqJWp14cUCAz5EPjhCkourn?usp=drive_link
 
 ## Run
 
